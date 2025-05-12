@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-mutua
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Networkig
+- 🌱 I’m currently learning Networking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me triplem706@gmail.com
 - 😄 Pronouns: HE/HIM
