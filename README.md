@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-mutua
 - 👀 I’m interested in Cyber Security | Networking and Mobile Development
-- 🌱 I’m currently learning Flutter with Dart, JS
+- 🌱 I’m currently learning Flutter with Dart, React JSX
 - 💞️ I’m looking to collaborate on anything innovative 
 - 📫 How to reach me triplem706@gmail.com
 - 😄 Pronouns: HE/HIM
