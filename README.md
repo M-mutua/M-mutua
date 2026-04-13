@@ -1,31 +1,52 @@
-# Professional Profile
-
-## Overview
-A dedicated and passionate software developer with experience in backend and mobile development, committed to building scalable and efficient solutions. Always eager to learn and adapt to new technologies and methodologies.
-
-## Technical Skills
-- **Backend Development:** Proficient in Node.js, Express, Python, Django, and RESTful APIs.
-- **Mobile Development:** Experience with React Native and Flutter for cross-platform mobile applications.
-- **Database Management:** Skilled in working with MySQL, MongoDB, and PostgreSQL.
-- **DevOps:** Familiar with Docker, Jenkins, and CI/CD pipelines.
-- **Version Control:** Proficient in Git and GitHub for source code management.
-
-## Specializations
-- Building secure and efficient backend services.
-- Creating responsive and user-friendly mobile applications.
-- Continuous integration and delivery practices to ensure quality software.
-
-## Learning Interests
-- Cloud Computing (AWS, Azure)
-- Microservices Architecture
-- Machine Learning and Data Science
-- Emerging trends in web and mobile technologies.
-
-## Contact Information
-- **Email:** mutua@example.com
-- **GitHub:** [M-mutua](https://github.com/M-mutua)
-- **LinkedIn:** [M-mutua](https://www.linkedin.com/in/m-mutua/)
+<h1>Mathias Mutua</h1>
+<p>Mobile Developer </p>
 
 ---
 
-*Last updated: 2026-04-13 06:51:16 UTC*
+## About
+
+I build cross-platform mobile applications and web interfaces — focused on clean architecture, practical solutions, and maintainable code. I'm self-directed, collaborative in team environments, and always learning.
+
+- Cross-platform mobile development with Flutter
+- Firebase-backed apps — auth, real-time database, Firestore, hosting
+- Web and backend fundamentals using JavaScript and SQL
+- Building and deploying end-to-end projects 
+
+---
+
+## Tech Stack
+
+**Languages**
+Java · Dart · JS · C
+
+**Mobile**
+Flutter · Cross-platform workflows
+
+**Databases**
+MySQL · Firebase Realtime Database · Firestore . PostGres
+
+**Cloud & Services**
+Firebase Authentication · Firebase Hosting · Firebase Cloud Messaging
+
+**Tools & Environment**
+VS Code · Android Studio · Visual Studio · MySQL Workbench · Git · Linux · Docker
+
+---
+
+## Soft Skills
+
+- Superb remote and real-time collaboration
+- Self-directed learning
+- Agile time management
+- Analytical problem solving
+
+---
+
+## Connect
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:triplem706@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathias-mutua)
+
+---
+
+> *I build practical, cross-platform solutions — mobile-first designed to work reliably in the real world.*
