@@ -9,7 +9,7 @@ I build cross-platform mobile applications and web interfaces — focused on cle
 
 - Cross-platform mobile development with Flutter
 - Firebase-backed apps — auth, real-time database, Firestore, hosting
-- Web and backend fundamentals using JavaScript and SQL
+- Web and backend fundamentals
 - Building and deploying end-to-end projects 
 
 ---
@@ -23,7 +23,7 @@ Java · Dart · JS · C
 Flutter · Cross-platform workflows
 
 **Databases**
-MySQL · Firebase Realtime Database · Firestore . PostGres
+MySQL  · Firestore . PostGres
 
 **Cloud & Services**
 Firebase Authentication · Firebase Hosting · Firebase Cloud Messaging
