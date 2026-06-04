@@ -23,10 +23,10 @@ Java · Dart · JS · C
 Flutter · Cross-platform workflows
 
 **Databases**
-MySQL  · Firestore . PostGres
+MySQL  · Firestore · PostgreSQL ·
 
 **Cloud & Services**
-Firebase Authentication · Firebase Hosting · Firebase Cloud Messaging
+Firebase Auth, Hosting & Cloud Messaging · Railway · Netlify · AWS
 
 **Tools & Environment**
 VS Code · Android Studio · Visual Studio · MySQL Workbench · Git · Linux · Docker
