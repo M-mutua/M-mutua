@@ -8,7 +8,7 @@
 I build cross-platform mobile applications and web interfaces — focused on clean architecture, practical solutions, and maintainable code. I'm self-directed, collaborative in team environments, and always learning.
 
 - Cross-platform mobile development with Flutter
-- Firebase-backed apps — auth, real-time database, Firestore, hosting
+- Apps — auth, real-time database, Firestore, hosting
 - Web and backend fundamentals
 - Building and deploying end-to-end projects 
 
@@ -17,7 +17,10 @@ I build cross-platform mobile applications and web interfaces — focused on cle
 ## Tech Stack
 
 **Languages**
-Java · Dart · JS · C
+Java · Dart · JS · C · C#
+
+**Frameworks**
+.NET
 
 **Mobile**
 Flutter · Cross-platform workflows
