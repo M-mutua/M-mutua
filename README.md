@@ -21,18 +21,19 @@ Java · Dart · JS · C · C#
 
 **Frameworks**
 .NET
+FLutter 
 
 **Mobile**
 Flutter · Cross-platform workflows
 
 **Databases**
-MySQL  · Firestore · PostgreSQL ·
+MySQL  · Firestore · PostgreSQL · SQLite
 
 **Cloud & Services**
 Firebase Auth, Hosting & Cloud Messaging · Railway · Netlify · AWS
 
 **Tools & Environment**
-VS Code · Android Studio · Visual Studio · MySQL Workbench · Git · Linux · Docker
+VS Code · Android Studio · Visual Studio · MySQL Workbench · Git · Linux · Docker 
 
 ---
 
@@ -52,4 +53,4 @@ VS Code · Android Studio · Visual Studio · MySQL Workbench · Git · Linux ·
 
 ---
 
-> *I build practical, cross-platform solutions — mobile-first designed to work reliably in the real world.*
+> *I build for fun but at the same time I build practical, cross-platform solutions, mobile-first that are designed to work reliably in the real world.*
