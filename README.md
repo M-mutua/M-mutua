@@ -5,7 +5,7 @@
 
 ## About
 
-I build cross-platform mobile applications and web interfaces — focused on clean architecture, practical solutions, and maintainable code. I'm self-directed, collaborative in team environments, and always learning.
+I build cross-platform mobile applications with a focus on clean architecture, practical solutions, and maintainable code. I'm self-directed, collaborative in team environments, and always learning (curiosity killed the feline, who desided that?).
 
 - Cross-platform mobile development with Flutter
 - Apps — auth, real-time database, Firestore, hosting
